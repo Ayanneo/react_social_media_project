@@ -1,3 +1,6 @@
+# Project is deployed on firebase
+ project working link is [https://react-socialmedia-project.web.app ](https://react-socialmedia-project.web.app )
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
